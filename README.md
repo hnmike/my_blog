@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## NextJS 14, Tailwind, Shadcn UI, MDX and Velite Blog Template
 
 <p align="center">
@@ -30,3 +31,6 @@ You can follow along with me as we build this on YouTube. The commits will line 
 
 ## Credits
 Much of the design of this project is taken from shadcn in his projects, such as [shadcn/ui](https://ui.shadcn.com/) and [Taxonomy](https://tx.shadcn.com/)
+=======
+# my_blog
+>>>>>>> origin/main
